@@ -10,5 +10,6 @@ package com.itheima.test;
 public class testGit {
 	public static void main(String[] args) {
 		System.out.println("this is my first file");
+		System.out.println("this is my second file");
 	}
 }
