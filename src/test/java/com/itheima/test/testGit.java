@@ -11,5 +11,6 @@ public class testGit {
 	public static void main(String[] args) {
 		System.out.println("this is my first file");
 		System.out.println("this is my second file");
+		System.out.println("pro this is my 3th file");
 	}
 }
