@@ -12,7 +12,7 @@ public class testGit2 {
 //......
 
 		System.out.println(Runtime.getRuntime().availableProcessors()); //输出本机CPU的数量,是一个数字
-
+		// this is a key for JUC
 
 	}
 }
